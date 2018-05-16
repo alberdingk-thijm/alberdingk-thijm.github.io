@@ -13,5 +13,5 @@ theme = "hyde"
 # Put all your custom variables here
 hyde_theme = "theme-base-0c"
 hyde_links = [
-    {url = "http://github.com/alberdingk-thijm", name = "Github"},
+    {url = "https://github.com/alberdingk-thijm", name = "Github"},
 ]
