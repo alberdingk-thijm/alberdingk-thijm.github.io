@@ -1,7 +1,7 @@
 +++
 title = "World"
 description = ""
-datetime = 2018/05/15
+datetime = 2018-05-15
 +++
 # World
 
