@@ -1,7 +1,7 @@
 +++
 title = "Wiki Home"
 description = ""
-datetime = 2018-05-15
+date = 2018-05-15
 +++
 # Home
 
