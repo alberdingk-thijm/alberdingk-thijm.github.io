@@ -1,6 +1,12 @@
++++
+title = "Pregnancy"
+description = ""
+datetime = 2018/05/15
++++
 # Pregnancy
 
-I have no qualms with my players running around having sex willy-nilly in my games, but I do hold them to the standards of real life when doing so. The following pregnancy rules were created to account for two factors: the possibility of conception and the effects of pregnancy on a character. The rules were designed to be simple enough to use on the odd occasion pregnancy comes up, while getting rid of the sexist notion that a character should be "retired" if she becomes pregnant (consider the [pregnant badass](http://tvtropes.org/pmwiki/pmwiki.php/Main/PregnantBadass|pregnant badass) as a much more interesting alternative).
+The following pregnancy rules were created to account for two factors: the possibility of conception and the effects of pregnancy on a character.
+The rules were designed to be simple enough to use on the odd occasion pregnancy comes up, while still allowing the character to participate in adventures.
 
 ## Conception 
 

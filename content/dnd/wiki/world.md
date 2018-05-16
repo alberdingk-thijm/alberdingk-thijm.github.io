@@ -1,3 +1,8 @@
++++
+title = "World"
+description = ""
+datetime = 2018/05/15
++++
 # World
 
 This page provides details about my D&D world as reference for myself and my players.

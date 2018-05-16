@@ -1,3 +1,8 @@
++++
+title = "Ability Scores"
+description = ""
+datetime = 2018/05/15
++++
 # Ability Scores
 ## Strength
 Strength is a measure of muscle, endurance and stamina combined.
