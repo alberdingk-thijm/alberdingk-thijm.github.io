@@ -52,6 +52,18 @@ Others are only available within a specific subset of forms.
 
 Skills available to bards include **conceptualism**, **creativity**, **performance**, **pragmatism**, **criticism**, **tutoring**, **art history**, **engineering**, **propaganda**, **trivium**, **mathematics**, **stagecraft** and **artistic representation**.
 
+### Martial Music
+
+Bards are able to play martial music for as long as 4 round per level per day.
+With each level gained, it can be supposed that the bard is able to produce musical variation to continue to inspire allies, and that their bodies can handle the strain of performance longer.
+
+It requires one full round of playing before martial music can have any kind of effect; thereafter, every round the music is played will have positive effects towards the player's allies.
+The bard may not perform any activity while producing martial music beyond moving 1 hex, so long as this does not move them into **melee**.
+
+Friendly combatants within 12 hexes (60 feet) of the player will gain +1 to hit, +1 to damage and +1 morale as long as the bard is playing.
+So long as the bard has not performed for the full number of rounds of martial music they may produce a day, they may stop and start again as often as they wish.
+They must warm up again for one round however; note that this warm-up does not count towards the total number of rounds of martial music the bard may play in a day.
+
 ## Experience Table
 
 Bards are limited to 23 levels.
